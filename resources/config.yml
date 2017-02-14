@@ -1,0 +1,14 @@
+---
+
+# Use {MONEY} to get EconomyAPI money!
+# use {LINE} to get new Line!
+# use {NAME} to get your name!
+# You can add many lines!
+#
+# A PLUGIN BY RTGDACODER
+
+messages:
+    - "JDBreakout"
+    
+    
+...

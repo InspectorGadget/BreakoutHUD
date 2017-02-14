@@ -1,0 +1,10 @@
+name: BreakoutHUD
+version: 1.0.0
+main: RTG\HUD\Loader
+api: 2.1.0
+author: IG
+
+commands:
+    hud:
+        usage: "/hud help"
+        description: "Main HUD Command!"
